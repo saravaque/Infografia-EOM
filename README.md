@@ -1,6 +1,7 @@
 # Infografia-EOM
 
 https://elordenmundial.com/mapas/las-mayores-guerras-en-el-siglo-xxi/
+
 En la presente infografía, publicada en la página web: El Orden Mundial, se recogen los datos relativos a las mayores guerras en el siglo XXI siguiendo el criterio 	para la definición de guerra según J. David Singer y Mell Small. Los datos recogidos se cuantifican en miles de muertes en batalla y por violencia asociada a la guerra. 
 
 El gráfico, se compone por una serie de círculos, concretamente 10, y se ordenan de mayor a menor, de izquierda a derecha. Los círculos se superponen unos a otros, de tal forma que ayuda al lector a poder comparar gracias las formas las diferencias entre unos y otros conflictos bélicos. Esto es algo positivo puesto que se aprecia perfectamente la diferencia entre unos y otros, siendo la *Guerra Civil de Siria* (2011-actualidad) la mayor guerra en cuanto a sus consecuencias. 
